@@ -28,7 +28,6 @@ public class Welcome {
 		// int choice = 0;
 
 		while (!quit) {
-
 			System.out.println("***********************************************");
 			System.out.println("\t" + greeting);
 			System.out.println("\t" + tagline);
